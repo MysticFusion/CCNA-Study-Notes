@@ -60,5 +60,6 @@ If you think anything is missing, need udpdate, or needs correction let me know 
 
 ---
 # DISCLAIMER
-Personal study notes based on "The Complete Networking Fundamentals Course. Your CCNA start" by David Bombal, and not a substitute for the course
-You can purchase David's Course udemy or on his personal website (davidbombal.com).
+Personal study notes based on "The Complete Networking Fundamentals Course. Your CCNA start" by David Bombal, and not a substitute for the course.
+
+You can purchase David's Course on Udemy or on his personal website (davidbombal.com).
