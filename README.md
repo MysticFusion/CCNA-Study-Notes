@@ -47,8 +47,8 @@ Headings tagged **NEW** are extra foundational topics added to fill gaps — the
 - 4.7 Local Loopback Address
 - 4.8 IPv4 Link-Local Addresses
 - 4.9 DHCP: Automatic IP Assignment (partly **NEW**)
-- 4.10 DNS: Translating Names to IP Addresses (**NEW**)
-- 4.11 Subnet Masks & CIDR Notation (**NEW**)
+- 4.10 DNS: Translating Names to IP Addresses
+- 4.11 Subnet Masks & CIDR Notation
 
 ---
 # Reminder
