@@ -57,3 +57,8 @@ This is a README document and not the actual file, word file in the repo contain
 ---
 # NOTE
 If you think anything is missing, need udpdate, or needs correction let me know by creating an issue in the repo.
+
+---
+# DISCLAIMER
+Personal study notes based on "The Complete Networking Fundamentals Course. Your CCNA start" by David Bombal, and not a substitute for the course
+You can purchase David's Course udemy or on his personal website (davidbombal.com).
