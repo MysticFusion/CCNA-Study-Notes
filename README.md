@@ -51,7 +51,9 @@ Headings tagged **NEW** are extra foundational topics added to fill gaps — the
 - 4.11 Subnet Masks & CIDR Notation (**NEW**)
 
 ---
-
-## NOTE
-
+# Reminder
 This is a README document and not the actual file, word file in the repo contains all the notes.
+
+---
+# NOTE
+If you think anything is missing, need udpdate, or needs correction let me know by creating an issue in the repo.
